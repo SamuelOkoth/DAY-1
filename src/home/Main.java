@@ -20,7 +20,7 @@ public class Main extends Application {
         primaryStage.show();
     }
 
-    //you can download the glyph browser - link provided.
+    //you can download the glyph browser - link provided below 
     public static void main(String[] args) {
         launch(args);
     }
