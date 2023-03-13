@@ -64,6 +64,7 @@ public class DashboardController implements Initializable {
         firstName.setCellValueFactory(new PropertyValueFactory<>("FirstName"));
         lastName.setCellValueFactory(new PropertyValueFactory<>("LastName"));
         tbData.setItems(studentsModels);
+        // dashboard loadstudents 
     }
 
 }
